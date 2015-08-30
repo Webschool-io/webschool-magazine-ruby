@@ -1,2 +1,2 @@
 # webschool-magazine-ruby
-A revista dedicada ao PHP.
+A revista dedicada ao Ruby.
